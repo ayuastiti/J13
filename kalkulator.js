@@ -55,7 +55,7 @@ function hitung() {
 				hasil = bil1 + bil2;
 				document.getElementById("output").value = hasil;
 				break;
-            	case 5 :
+            		case 5 :
                 		hasil = bil1 % bil2;
                 		document.getElementById("output").value = hasil;
                 		break;
